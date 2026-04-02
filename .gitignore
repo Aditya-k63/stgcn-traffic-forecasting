@@ -1,0 +1,9 @@
+venv/
+site-packages/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.npy
+.ipynb_checkpoints/
