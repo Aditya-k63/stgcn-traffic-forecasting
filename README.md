@@ -97,7 +97,7 @@ streamlit run app/app.py
 
 ![App Screenshot](assets/demo.png)
 ![App Screenshot](assets/demo1.png)
-![App Screenshot](assets/demo2.png)
+![App Screenshot](assets/demo3.png)
 
 The Streamlit dashboard includes an **interactive slider** that lets you scrub through `X_train` sequences in real time — demonstrating the model's ability to handle dynamic, changing inputs and produce live speed forecasts across the sensor network.
 
